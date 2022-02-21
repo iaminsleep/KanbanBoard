@@ -485,7 +485,7 @@ p {
 .task--active .task__edit,
 .task--active:hover .task__edit {
   opacity: 1;
-  background-image: url(/img/edit-active.0f5ae934.svg);
+  background-image: url(../img/edit-active.0f5ae934.svg);
 }
 .task--dragged {
   padding: 16px 14px;
