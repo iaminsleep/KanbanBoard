@@ -520,7 +520,7 @@ p {
   background-color: transparent;
   cursor: pointer;
   transition: var(--animation);
-  background-image: url(/img/edit.6f0c8030.svg);
+  background-image: url(../img/edit.6f0c8030.svg);
   opacity: 0;
 }
 .task__edit:active,
