@@ -1,24 +1,7 @@
-# kanban-vue
+# Канбан-доска
 
-## Project setup
-```
-npm install
-```
+Канбан-доска (в переводе с японского kanban — «сигнальная карточка») — инструмент управления Agile-проектами, который помогает визуально представить задачи, определить объем незавершенной работы и повысить ее эффективность и скорость.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## gh-pages
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://iaminsleep.github.io/kanban-board/
