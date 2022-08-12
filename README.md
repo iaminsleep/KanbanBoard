@@ -1,7 +1,7 @@
 # Канбан-доска
 
-Канбан-доска (в переводе с японского kanban — «сигнальная карточка») — инструмент управления Agile-проектами, который помогает визуально представить задачи, определить объем незавершенной работы и повысить ее эффективность и скорость.
+Kanban board (translated from Japanese kanban — "signal card") is an Agile project management tool that helps to visually present tasks, determine the amount of work in progress and increase its efficiency and speed.
 
-## gh-pages
+## Hosting (gh-pages)
 
 https://iaminsleep.github.io/kanban-board/
